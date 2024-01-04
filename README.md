@@ -1,2 +1,2 @@
-# trest sand
-node server
+# trest
+node server for simple CRUD operations tests
