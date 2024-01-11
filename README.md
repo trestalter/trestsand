@@ -1,2 +1,2 @@
 # trest sandbox
-node server for CRUD operations
+node server for CRUD
