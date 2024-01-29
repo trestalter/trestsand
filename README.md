@@ -1,2 +1,2 @@
 # sandbox
-node server for CRUD
+server for CRUD
