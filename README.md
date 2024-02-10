@@ -1,2 +1,2 @@
 # sandbox
-server for CRUD shadow dom
+server for CRUD shadow
