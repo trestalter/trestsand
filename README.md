@@ -1,2 +1,2 @@
 # sandbox
-server for CRUD shadow
+server for CRUD
