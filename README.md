@@ -1,2 +1,2 @@
 # sandbox
-server for CRUD
+server for CRUD ops
